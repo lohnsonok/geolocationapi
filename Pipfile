@@ -15,6 +15,7 @@ requests = "*"
 aiofiles = "*"
 
 [dev-packages]
+setuptools==45
 pylint = "*"
 black = "*"
 "flake8" = "*"
