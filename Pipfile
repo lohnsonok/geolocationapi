@@ -18,7 +18,6 @@ aiofiles = "*"
 pylint = "*"
 black = "*"
 "flake8" = "*"
-maxminddb = "*"
 
 [requires]
 python_version = "3.7"
