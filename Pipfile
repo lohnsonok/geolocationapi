@@ -13,12 +13,12 @@ gunicorn = "*"
 requests = "*"
 "jinja2" = "*"
 aiofiles = "*"
-maxminddb = "*"
 
 [dev-packages]
 pylint = "*"
 black = "*"
 "flake8" = "*"
+maxminddb = "*"
 
 [requires]
 python_version = "3.7"
