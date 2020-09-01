@@ -3,9 +3,6 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[testenv]
-command= pip install --upgrade pip
-
 [packages]
 starlette = "*"
 uvicorn = "*"
@@ -16,6 +13,7 @@ gunicorn = "*"
 requests = "*"
 "jinja2" = "*"
 aiofiles = "*"
+maxminddb = "*"
 
 [dev-packages]
 pylint = "*"
