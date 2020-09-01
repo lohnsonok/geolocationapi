@@ -21,4 +21,3 @@ black = "*"
 
 [requires]
 python_version = "3.7"
-command= pip install --upgrade pip
